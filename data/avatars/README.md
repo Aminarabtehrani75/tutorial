@@ -10,4 +10,6 @@
 
 + img3-blinking.mp4: `-30 -30 -30 -30`
 
++ img4-blinking.mp4: `20 80 20 20`
+
 3) Upload the voice that just contains your voice (and no background music)
